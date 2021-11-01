@@ -1,4 +1,4 @@
-# This is Testimonials Slider built with ReactJS and Swiper
+# Testimonials Slider built with ReactJS and Swiper
 
 ## Available Scripts
 
